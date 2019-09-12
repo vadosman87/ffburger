@@ -561,7 +561,7 @@ p {
   padding-bottom: 17px; }
 
 .order {
-  background: url("/img/order/order-bg.jpg") center center/cover no-repeat;
+  background: url("../img/order/order-bg.jpg") center center/cover no-repeat;
   color: #fff; }
 
 .title__order {
@@ -662,7 +662,7 @@ p {
     margin-bottom: 0; }
 
 .team {
-  background: url("/img/team/teambg.png") center center/cover no-repeat;
+  background: url("../img/team/teambg.png") center center/cover no-repeat;
   color: #fff;
   display: flex;
   justify-content: flex-end; }
@@ -735,7 +735,7 @@ p {
   font-weight: 300; }
 
 .map {
-  background: url("/img/map/map.png") center center/cover no-repeat;
+  background: url("../img/map/map.png") center center/cover no-repeat;
   width: 100%;
   height: 100%;
   position: relative; }
@@ -745,7 +745,7 @@ p {
   bottom: 0;
   width: 100%;
   height: 60px;
-  background: url("/img/footer/footer.png") center center/cover no-repeat; }
+  background: url("../img/footer/footer.png") center center/cover no-repeat; }
 
 .container--footer {
   flex-direction: row;
@@ -778,7 +778,7 @@ p {
   margin-right: 10px;
   height: 40px;
   width: 40px;
-  background: url("/img/footer/sprite.png") center center no-repeat;
+  background: url("../img/footer/sprite.png") center center no-repeat;
   transition: .5s; }
 
 .social__link {
@@ -798,7 +798,7 @@ p {
   background-position-y: -58px; }
 
 .menu {
-  background: url("/img/menu/menu.png") center center/cover no-repeat;
+  background: url("../img/menu/menu.png") center center/cover no-repeat;
   display: flex;
   justify-content: flex-end;
   position: relative; }
