@@ -1,0 +1,32 @@
+.second {
+  background: url("../img/second/bg.png") center center/cover no-repeat; }
+
+.second .container {
+  justify-content: center; }
+
+.title__best {
+  color: #2f3234;
+  text-align: center;
+  padding-bottom: 55px; }
+
+.best__list {
+  display: flex; }
+
+.best__item {
+  flex: 1;
+  margin-right: 35px;
+  text-align: center; }
+  .best__item:last-child {
+    margin-right: 0; }
+
+.best__picture-icon {
+  margin-bottom: 34px; }
+
+.best__h {
+  font-size: 24px;
+  font-family: 'Lifehack', sans-serif;
+  margin-bottom: 34px; }
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300; }

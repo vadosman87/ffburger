@@ -1,0 +1,17 @@
+.btn {
+    padding: 12px 15px;
+    border-radius: 5px;
+    background:#e45028;
+    text-transform: uppercase;
+    color: white;
+    font-size: 13px;
+    border: none;
+    
+    &:hover {
+        background: red;
+    }
+}
+
+.button {
+    margin-left: 15px;
+}

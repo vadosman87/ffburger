@@ -1,0 +1,24 @@
+
+//normalize
+@import "../css/_misc/normalize.scss";
+
+// setups
+@import "../css/_misc/layout.scss";
+@import "../css/_misc/fonts.scss";
+
+
+// blocks 
+@import "../css/blocks/section.scss";
+@import "../css/blocks/first.scss";
+@import "../css/blocks/header.scss";
+@import "../css/blocks/nav.scss";
+@import "../css/blocks/btn.scss";
+@import "../css/blocks/scroll-down-btn.scss";
+@import "../css/blocks/second.scss";
+@import "../css/blocks/reviews.scss";
+@import "../css/blocks/order.scss";
+@import "../css/blocks/form.scss";
+@import "../css/blocks/fixed-menu.scss";
+@import "../css/blocks/team.scss";
+@import "../css/blocks/map.scss";
+@import "../css/blocks/menu.scss";

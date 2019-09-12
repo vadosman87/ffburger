@@ -1,0 +1,8 @@
+.scroll-down-btn {
+  background: url("../img/first/arrow-scroll.png") center center/contain no-repeat;
+  width: 32px;
+  height: 16px;
+  border: none;
+  display: inline-block;
+  align-self: center;
+  margin-bottom: 20px; }
